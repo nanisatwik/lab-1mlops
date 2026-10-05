@@ -1,2 +1,7 @@
+lab_01/
+.venv/
+venv/
 __pycache__/
 .pytest_cache/
+pytest-report.xml
+.DS_Store
